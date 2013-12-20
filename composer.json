@@ -33,7 +33,7 @@
       "app/plugins/{$name}/": ["type:wordpress-plugin"],
       "app/mu-plugins/{$name}/": ["type:wordpress-muplugin"]
     },
-    "webroot-dir": "wp",
+    "webroot-dir": "web/wp",
     "webroot-package": "wordpress"
   }
 }

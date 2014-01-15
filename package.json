@@ -1,0 +1,22 @@
+{
+  "name": "Gruntrock",
+  "version": "1.0.0",
+  "description": "Gruntrock is a fork of Bedrock which uses Grunt git_ftp task for deployment instead of Capistrano.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thegallagher/bedrock.git"
+  },
+  "author": "David Gallagher",
+  "contributors": [
+    "Ben Word <ben@benword.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thegallagher/bedrock/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "ftp": "~0.3.6",
+    "grunt-git-ftp": "~0.1.4"
+  }
+}

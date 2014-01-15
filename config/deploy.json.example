@@ -1,0 +1,16 @@
+{
+  "staging": {
+    "host": "ftp.host-address.com",
+    "port": 21,
+    "user": "ftp-username",
+    "password": "ftp-account-password",
+    "remotePath": "ftp-basepath"
+  },
+  "development": {
+    "host": "ftp.host-address.com",
+    "port": 21,
+    "user": "ftp-username",
+    "password": "ftp-account-password",
+    "remotePath": "ftp-basepath"
+  }
+}
